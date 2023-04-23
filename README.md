@@ -72,13 +72,13 @@ Code Submission Evaluation System(https://cses.fi)
 <tr>
 <td><a href="https://cses.fi/problemset/task/1754"> Coin Piles </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Coin_Piles.py">Solution_link</a></td>
 </tr>
 
 <tr>
 <td><a href="https://cses.fi/problemset/task/1755">Panlindrome Reorder </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Palindrome_Reoder.py">Solution_link</a></td>
 </tr>
 
 <tr>
