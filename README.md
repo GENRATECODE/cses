@@ -125,24 +125,89 @@ Code Submission Evaluation System(https://cses.fi)
 </table>
 
 # Sorting and Searching 
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  
+</table>
 # Dynamic Programming
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  </table>
 # Graph Alogrithms
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  </table>
 # Range Queries
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  </table>
 # Tree Algorithms
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  </table>
 # Mathematics
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  
+  </table>
 # String Algorithms
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  
+  </table>
 # Geometry 
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  
+  </table>
 # Advanced Techniques
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  </table>
 # Additional Problem 
-
+<table> 
+<tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Solution_Link</td>
+</tr>
+  
+  </table>
 
 
