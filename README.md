@@ -98,7 +98,7 @@ Code Submission Evaluation System(https://cses.fi)
 <td><a href="https://cses.fi/problemset/task/2205"> Gray Code </a></td>
 <td>Python</td>
 <td><a href="">Solution_link</a></td>
-  <td> ❌</td>
+   <td>✅</td>
 </tr>
 
 <tr>
