@@ -144,16 +144,20 @@ Code Submission Evaluation System(https://cses.fi)
 </tr>
 </table>
 
+<p>Pending Below </p>
+
 # Sorting and Searching 
 <table> 
 <tr>
 <td>Problem</td>
 <td>Language</td>
 <td>Solution_Link</td>
-  <td> ❌</td>
+
 </tr>
   
 </table>
+
+
 # Dynamic Programming
 <table> 
 <tr>
@@ -169,9 +173,10 @@ Code Submission Evaluation System(https://cses.fi)
 <td>Problem</td>
 <td>Language</td>
 <td>Solution_Link</td>
-  <td> ❌</td>
+  
 </tr>
   </table>
+  
 # Range Queries
 <p>Pending</p>
 <table> 
@@ -182,6 +187,7 @@ Code Submission Evaluation System(https://cses.fi)
   
 </tr>
   </table>
+
 # Tree Algorithms
 <table> 
 <tr>
@@ -190,6 +196,7 @@ Code Submission Evaluation System(https://cses.fi)
 <td>Solution_Link</td>
 </tr>
   </table>
+
 # Mathematics
 <table> 
 <tr>
@@ -199,6 +206,7 @@ Code Submission Evaluation System(https://cses.fi)
 </tr>
   
   </table>
+
 # String Algorithms
 <table> 
 <tr>
@@ -208,6 +216,8 @@ Code Submission Evaluation System(https://cses.fi)
 </tr>
   
   </table>
+
+
 # Geometry 
 <table> 
 <tr>
@@ -217,6 +227,8 @@ Code Submission Evaluation System(https://cses.fi)
 </tr>
   
   </table>
+
+
 # Advanced Techniques
 <table> 
 <tr>
@@ -225,6 +237,8 @@ Code Submission Evaluation System(https://cses.fi)
 <td>Solution_Link</td>
 </tr>
   </table>
+  
+  
 # Additional Problem 
 <table> 
 <tr>
