@@ -60,13 +60,13 @@ Code Submission Evaluation System(https://cses.fi)
 <tr>
 <td><a href="https://cses.fi/problemset/task/1617"> Bit Strings </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Bit_Strings.py">Solution_link</a></td>
 </tr>
 
 <tr>
 <td><a href="https://cses.fi/problemset/task/1618"> Trailing Zeros </a></td>
 <td>Python</td>
-<td><a href=" ">Solution_link</a></td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Trailing_Zeros.py ">Solution_link</a></td>
 </tr>
 
 <tr>
