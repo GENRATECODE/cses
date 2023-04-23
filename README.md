@@ -124,4 +124,25 @@ Code Submission Evaluation System(https://cses.fi)
 </tr>
 </table>
 
-#
+# Sorting and Searching 
+
+# Dynamic Programming
+
+# Graph Alogrithms
+
+# Range Queries
+
+# Tree Algorithms
+
+# Mathematics
+
+# String Algorithms
+
+# Geometry 
+
+# Advanced Techniques
+
+# Additional Problem 
+
+
+
