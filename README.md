@@ -1,6 +1,12 @@
 # cses
 Code Submission Evaluation System(https://cses.fi)
-#### Introductor Problem
+# Introductor Problem
+
+<table> 
 <tr>
-<td> Weird Algorithm</td>
-</tr>
+<td>Problem</td>
+<td>Language</td>
+<td>Problem</td>
+      
+ </tr>
+</table>
