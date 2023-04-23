@@ -2,7 +2,7 @@
 Code Submission Evaluation System(https://cses.fi)
 # Introductor Problem
 
-<table> 
+<table align="center"> 
 <tr>
 <td>Problem</td>
 <td>Language</td>
