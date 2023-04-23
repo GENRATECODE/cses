@@ -6,7 +6,103 @@ Code Submission Evaluation System(https://cses.fi)
 <tr>
 <td>Problem</td>
 <td>Language</td>
-<td>Problem</td>
-      
- </tr>
+<td>Solution_Link</td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
+<tr>
+<td><a href="https://cses.fi/problemset/task/1068"> Weird Alorithm </a></td>
+<td>Python</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Weird_Algorithm.py">Solution_link</a></td>
+</tr>
+
 </table>
