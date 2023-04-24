@@ -91,7 +91,7 @@ Code Submission Evaluation System(https://cses.fi)
 <td><a href="https://cses.fi/problemset/task/1755">Panlindrome Reorder </a></td>
 <td>Python</td>
 <td><a href="https://github.com/GENRATECODE/cses/blob/main/Palindrome_Reoder.py">Solution_link</a></td>
-  <td> ❌</td>
+  <td>✅</td>
   </tr>
 
 <tr>
