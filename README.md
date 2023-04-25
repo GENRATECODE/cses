@@ -97,15 +97,15 @@ Code Submission Evaluation System(https://cses.fi)
 <tr>
 <td><a href="https://cses.fi/problemset/task/2205"> Gray Code </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Gray_code.py">Solution_link</a></td>
    <td>✅</td>
 </tr>
 
 <tr>
 <td><a href="https://cses.fi/problemset/task/2165">Tower of Hanoi</a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
-  <td> ❌</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Tower_of_Brahma.py">Solution_link</a></td>
+ <td>✅</td>
 </tr>
 
 <tr>
