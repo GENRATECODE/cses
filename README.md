@@ -111,15 +111,15 @@ Code Submission Evaluation System(https://cses.fi)
 <tr>
 <td><a href="https://cses.fi/problemset/task/1622">Creating String </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
-  <td> ❌</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Creating_Strings.py">Solution_link</a></td>
+  <td> ✅</td>
 </tr>
 
 <tr>
 <td><a href="https://cses.fi/problemset/task/1623"> Apple Devision </a></td>
 <td>Python</td>
-<td><a href="">Solution_link</a></td>
-  <td> ❌</td>
+<td><a href="https://github.com/GENRATECODE/cses/blob/main/Apple_Division.py">Solution_link</a></td>
+  <td> ✅</td>
 </tr>
 
 <tr>
