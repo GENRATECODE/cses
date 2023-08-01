@@ -152,9 +152,31 @@ Code Submission Evaluation System(https://cses.fi)
 <td>Problem</td>
 <td>Language</td>
 <td>Solution_Link</td>
-
+<td>Status</td>
 </tr>
-  
+
+<tr>
+<td> <a href="Distint_number.py">Distinct Numbers</a></td>
+<td>Python</td>
+<td><a href="Distint_number.py">Solution_link</a></td>
+<td>✅</td>
+</tr>
+
+<tr>
+<td> <a href="Apartments.py">Apartments</a></td>
+<td>Python</td>
+<td><a href="Apartments.py">Solution_link</a></td>
+<td>✅</td>
+</tr>
+
+<tr>
+<td> <a href="Ferris_Wheel.py">Ferris Wheel</a></td>
+<td>Python</td>
+<td><a href="Ferris_Wheel.py">Solution_link</a></td>
+<td>✅</td>
+</tr>
+
+
 </table>
 
 
