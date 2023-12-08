@@ -35,8 +35,10 @@ Output:
 1 2
 1 3
 2 3"""
-def T(n:int,b:str, e:str, a:str):        
-    if n>0:
+def T(n:int,b:str, e:str, a:str):
+    if n==1:
+      print(b,e)
+    elif n>1:
         T(n-1,b,a,e)
         print(b,e)
         T(n-1,a,e,b)
